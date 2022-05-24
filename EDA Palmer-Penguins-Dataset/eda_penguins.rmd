@@ -2,7 +2,10 @@
 title: "Palmer Penguins Dataset - Practice Analysis (EDA)"
 author: "Shefali C."
 mainfont: mono
-output: html_notebook
+output: 
+  html_document:
+    keep_md: true
+
 ---
 
 ## About the data:
